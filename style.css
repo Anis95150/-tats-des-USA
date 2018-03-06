@@ -1,0 +1,14 @@
+#texte{
+	margin-left: 40%;
+	height: 50px;
+ 	font-size: 20px;
+	border: 2px solid blue;
+	
+	}
+
+	#para{
+		text-align: center;
+		font-weight: normal;
+		font-size: 30px;
+
+	}
